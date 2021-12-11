@@ -1,0 +1,9 @@
+.productos {
+  margin: 20px auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: rgb(247, 239, 239);
+  border-radius: 5px;
+}
